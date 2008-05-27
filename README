@@ -1,0 +1,9 @@
+jazzyfox's plugins for rbot
+
+armory.rb: armory plugin for WoW armory info
+coin.rb: simple coin flipping
+convert.rb: convert values via Google search
+rules.rb: channel rules
+slstats.rb: regurgitates population/economy stats from secondlife.com
+twitter.rb: basic twitter fetcher
+
